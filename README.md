@@ -36,7 +36,7 @@ This project is developed as a part of my Data Structures subject. It is a menu-
 
 ## Author
 
-Shravani Thorave
+Bhagyashree Siram
 
 ## Academic Information
 
